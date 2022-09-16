@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.lang.*;
-class GFG 
+class Sorted
 { 
     static boolean isSorted(int arr[], int n)
     {
@@ -10,10 +10,8 @@ class GFG
     	    if(arr[i] < arr[i - 1])
     	        return false;
     	}
-
     	return true;
     } 
-
     public static void main(String args[]) 
     { 
        int arr[] = {5, 12, 30, 2, 35}, n = 5;
