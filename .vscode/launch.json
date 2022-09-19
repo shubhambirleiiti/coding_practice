@@ -1,0 +1,124 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Binary_search",
+            "request": "launch",
+            "mainClass": "Binary_search",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search",
+            "request": "launch",
+            "mainClass": "dsa.Sorting.Binary_search",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subarray",
+            "request": "launch",
+            "mainClass": "Subarray",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sliding_window_technique",
+            "request": "launch",
+            "mainClass": "Sliding_window_technique",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Minimum_conse_flip_efficient",
+            "request": "launch",
+            "mainClass": "Minimum_conse_flip_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Majority_elemnet_efficient",
+            "request": "launch",
+            "mainClass": "Majority_elemnet_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Majority_elemnet",
+            "request": "launch",
+            "mainClass": "Majority_elemnet",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_sbarr_efficient",
+            "request": "launch",
+            "mainClass": "Max_sbarr_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_sbarr_naive",
+            "request": "launch",
+            "mainClass": "Max_sbarr_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_sbarr_longest",
+            "request": "launch",
+            "mainClass": "Max_sbarr_longest",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_sbarr",
+            "request": "launch",
+            "mainClass": "Max_sbarr",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consecutive_max_effi",
+            "request": "launch",
+            "mainClass": "Consecutive_max_effi",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consecutive_max",
+            "request": "launch",
+            "mainClass": "Consecutive_max",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
