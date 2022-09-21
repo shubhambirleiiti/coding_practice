@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Peak_element_efficient",
+            "request": "launch",
+            "mainClass": "Peak_element_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_peak_element",
+            "request": "launch",
+            "mainClass": "Find_peak_element",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Counts_1s",
+            "request": "launch",
+            "mainClass": "Counts_1s",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_occurance_sorted_array",
+            "request": "launch",
+            "mainClass": "Count_occurance_sorted_array",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_Occurance_sorted",
+            "request": "launch",
+            "mainClass": "Count_Occurance_sorted",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Last_occurance_recursive",
+            "request": "launch",
+            "mainClass": "Last_occurance_recursive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Last_occurance_iterative",
+            "request": "launch",
+            "mainClass": "Last_occurance_iterative",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch last_bsearch_iterative",
+            "request": "launch",
+            "mainClass": "last_bsearch_iterative",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG_bsearch_efficent_iterative",
+            "request": "launch",
+            "mainClass": "GFG_bsearch_efficent_iterative",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG_bsearch",
+            "request": "launch",
+            "mainClass": "GFG_bsearch",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch bsearch",
+            "request": "launch",
+            "mainClass": "bsearch",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search_iterative_efficient",
+            "request": "launch",
+            "mainClass": "Binary_search_iterative_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search_recursive_efficient",
+            "request": "launch",
+            "mainClass": "Binary_search_recursive_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search_iterative_naive",
+            "request": "launch",
+            "mainClass": "Binary_search_iterative_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_search_recursive",
+            "request": "launch",
+            "mainClass": "Binary_search_recursive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Binary_search",
             "request": "launch",
             "mainClass": "Binary_search",
