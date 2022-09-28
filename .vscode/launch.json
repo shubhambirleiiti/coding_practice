@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection_sort_efficient",
+            "request": "launch",
+            "mainClass": "Selection_sort_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection_sort_naive",
+            "request": "launch",
+            "mainClass": "Selection_sort_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bublesort_efficiient",
+            "request": "launch",
+            "mainClass": "Bublesort_efficiient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bublesort",
+            "request": "launch",
+            "mainClass": "dsa.Sorting.Bublesort",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bublesort",
+            "request": "launch",
+            "mainClass": "Bublesort",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Repeating_element",
+            "request": "launch",
+            "mainClass": "Repeating_element",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Two_pointer_approch",
+            "request": "launch",
+            "mainClass": "Two_pointer_approch",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch search_sorted_array",
+            "request": "launch",
+            "mainClass": "search_sorted_array",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search_infinite_size",
+            "request": "launch",
+            "mainClass": "Search_infinite_size",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_sqroot_floor",
+            "request": "launch",
+            "mainClass": "Find_sqroot_floor",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Peak_element_efficient",
             "request": "launch",
             "mainClass": "Peak_element_efficient",
