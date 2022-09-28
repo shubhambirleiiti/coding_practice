@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Intersection_of_sotred_array",
+            "request": "launch",
+            "mainClass": "Intersection_of_sotred_array",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_merge_new",
+            "request": "launch",
+            "mainClass": "Solution_merge_new",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution_merge",
+            "request": "launch",
+            "mainClass": "Solution_merge",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Solution",
             "request": "launch",
             "mainClass": "Solution",
