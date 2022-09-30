@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Leftmost_non_repeating_better",
+            "request": "launch",
+            "mainClass": "Leftmost_non_repeating_better",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leftmost_non_repeating",
+            "request": "launch",
+            "mainClass": "Leftmost_non_repeating",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leftmost_repeating_efficient",
+            "request": "launch",
+            "mainClass": "Leftmost_repeating_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leftmost_repeating_better",
+            "request": "launch",
+            "mainClass": "Leftmost_repeating_better",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leftmost_repeating",
+            "request": "launch",
+            "mainClass": "Leftmost_repeating",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch find_anagram_efficient",
+            "request": "launch",
+            "mainClass": "find_anagram_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch find_subsequence",
+            "request": "launch",
+            "mainClass": "find_subsequence",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch fin_subseques",
+            "request": "launch",
+            "mainClass": "fin_subseques",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Find_subset",
+            "request": "launch",
+            "mainClass": "Find_subset",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch To_find_subseue",
+            "request": "launch",
+            "mainClass": "To_find_subseue",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Plaindrome_efficient",
+            "request": "launch",
+            "mainClass": "Plaindrome_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Plaindrome",
+            "request": "launch",
+            "mainClass": "Plaindrome",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Plaindrome",
+            "request": "launch",
+            "mainClass": "dsa.String.Plaindrome",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kth_smallest",
+            "request": "launch",
+            "mainClass": "Kth_smallest",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_implemetation",
+            "request": "launch",
+            "mainClass": "dsa.Stack.Array_implemetation",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_inversions",
+            "request": "launch",
+            "mainClass": "Count_inversions",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Union_Efficient",
+            "request": "launch",
+            "mainClass": "Union_Efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Union_naive",
+            "request": "launch",
+            "mainClass": "Union_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersection_efficeint",
+            "request": "launch",
+            "mainClass": "Intersection_efficeint",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Intersection_of_sotred_array",
             "request": "launch",
             "mainClass": "Intersection_of_sotred_array",
