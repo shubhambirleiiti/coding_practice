@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Check_paranthesis",
+            "request": "launch",
+            "mainClass": "Check_paranthesis",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram_naive",
+            "request": "launch",
+            "mainClass": "Anagram_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Improved_pattern_searching",
+            "request": "launch",
+            "mainClass": "Improved_pattern_searching",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern_searching_naive_improved",
+            "request": "launch",
+            "mainClass": "Pattern_searching_naive_improved",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern_searching_naive",
+            "request": "launch",
+            "mainClass": "Pattern_searching_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern_searching",
+            "request": "launch",
+            "mainClass": "Pattern_searching",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_word",
+            "request": "launch",
+            "mainClass": "Reverse_word",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Leftmost_non_repeating_better",
             "request": "launch",
             "mainClass": "Leftmost_non_repeating_better",
