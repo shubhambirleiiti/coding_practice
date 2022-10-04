@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Stock_span_probl_efficient",
+            "request": "launch",
+            "mainClass": "Stock_span_probl_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stock_span_probl_naive",
+            "request": "launch",
+            "mainClass": "Stock_span_probl_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Next_greater_elem_effi",
+            "request": "launch",
+            "mainClass": "Next_greater_elem_effi",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Next_greater_elem",
+            "request": "launch",
+            "mainClass": "Next_greater_elem",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Previous_greater_elem_effi",
+            "request": "launch",
+            "mainClass": "Previous_greater_elem_effi",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Previous_greater_elem",
+            "request": "launch",
+            "mainClass": "Previous_greater_elem",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Check_paranthesis",
             "request": "launch",
             "mainClass": "Check_paranthesis",
