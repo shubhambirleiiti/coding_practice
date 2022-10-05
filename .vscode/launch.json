@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Delete_last",
+            "request": "launch",
+            "mainClass": "Delete_last",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delete_first",
+            "request": "launch",
+            "mainClass": "Delete_first",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insert_end",
+            "request": "launch",
+            "mainClass": "Insert_end",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insert_begining",
+            "request": "launch",
+            "mainClass": "Insert_begining",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertion_linkedlist",
+            "request": "launch",
+            "mainClass": "Insertion_linkedlist",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Traverisng_in_linked_recur",
+            "request": "launch",
+            "mainClass": "Traverisng_in_linked_recur",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursive_traversal",
+            "request": "launch",
+            "mainClass": "Recursive_traversal",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Traverisng_in_linked",
+            "request": "launch",
+            "mainClass": "Traverisng_in_linked",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simple_impl",
+            "request": "launch",
+            "mainClass": "Simple_impl",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simple_impl",
+            "request": "launch",
+            "mainClass": "Linkedlist.Simple_impl",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Generate_numbers",
+            "request": "launch",
+            "mainClass": "Generate_numbers",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reversing_queue_recursi",
+            "request": "launch",
+            "mainClass": "Reversing_queue_recursi",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reversing_queue",
+            "request": "launch",
+            "mainClass": "Reversing_queue",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reversing_queue",
+            "request": "launch",
+            "mainClass": "dsa.Queue.Reversing_queue",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Stock_span_probl_efficient",
             "request": "launch",
             "mainClass": "Stock_span_probl_efficient",
