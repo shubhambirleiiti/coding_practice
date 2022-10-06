@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch isPalindrome_linked",
+            "request": "launch",
+            "mainClass": "isPalindrome_linked",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome_linked",
+            "request": "launch",
+            "mainClass": "Palindrome_linked",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_doubly_linked",
+            "request": "launch",
+            "mainClass": "Reverse_doubly_linked",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insert_doubly_begin",
+            "request": "launch",
+            "mainClass": "Insert_doubly_begin",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search_linkedlist",
+            "request": "launch",
+            "mainClass": "Search_linkedlist",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insert_given_position",
+            "request": "launch",
+            "mainClass": "Insert_given_position",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial_recurs",
+            "request": "launch",
+            "mainClass": "Factorial_recurs",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_digit",
+            "request": "launch",
+            "mainClass": "Count_digit",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count_digit",
+            "request": "launch",
+            "mainClass": "dsa.Mathematics.Count_digit",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Delete_last",
             "request": "launch",
             "mainClass": "Delete_last",
