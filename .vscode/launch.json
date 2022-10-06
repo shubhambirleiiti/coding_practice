@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LCM_efficient",
+            "request": "launch",
+            "mainClass": "LCM_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gcd_euclidean",
+            "request": "launch",
+            "mainClass": "Gcd_euclidean",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcd_hcf",
+            "request": "launch",
+            "mainClass": "gcd_hcf",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trailling_zeros_eff",
+            "request": "launch",
+            "mainClass": "Trailling_zeros_eff",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trailling_zeros",
+            "request": "launch",
+            "mainClass": "Trailling_zeros",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Computing_power",
+            "request": "launch",
+            "mainClass": "Computing_power",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Iterative_power",
+            "request": "launch",
+            "mainClass": "Iterative_power",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch isPalindrome_linked",
             "request": "launch",
             "mainClass": "isPalindrome_linked",
