@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Printing_permutation",
+            "request": "launch",
+            "mainClass": "dsa.Recursion.Printing_permutation",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch All_divisor_effi_sorted",
+            "request": "launch",
+            "mainClass": "All_divisor_effi_sorted",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch All_divisor_effi",
+            "request": "launch",
+            "mainClass": "All_divisor_effi",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch All_divisor",
+            "request": "launch",
+            "mainClass": "All_divisor",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_factor_more_efficient",
+            "request": "launch",
+            "mainClass": "Prime_factor_more_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_factor_efficient",
+            "request": "launch",
+            "mainClass": "Prime_factor_efficient",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_factor_naive",
+            "request": "launch",
+            "mainClass": "Prime_factor_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_effi_more",
+            "request": "launch",
+            "mainClass": "Prime_effi_more",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_effi",
+            "request": "launch",
+            "mainClass": "Prime_effi",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch LCM_efficient",
             "request": "launch",
             "mainClass": "LCM_efficient",
