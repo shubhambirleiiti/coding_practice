@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch check_balance",
+            "request": "launch",
+            "mainClass": "dsa.Tree.check_balance",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Children",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Children",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftView_iterative",
+            "request": "launch",
+            "mainClass": "dsa.Tree.LeftView_iterative",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftView",
+            "request": "launch",
+            "mainClass": "dsa.Tree.LeftView",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_binary",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Maximum_binary",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Size_Binary",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Size_Binary",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Size_Binary",
+            "request": "launch",
+            "mainClass": "Size_Binary",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_size",
+            "request": "launch",
+            "mainClass": "Binary_size",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_size",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Binary_size",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch level_order_print_part2",
+            "request": "launch",
+            "mainClass": "dsa.Tree.level_order_print_part2",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch level_order_print",
+            "request": "launch",
+            "mainClass": "dsa.Tree.level_order_print",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Level_order",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Level_order",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print_Nk_Distance",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Print_Nk_Distance",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Height_binary",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Height_binary",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Postorder_traver",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Postorder_traver",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Preorder_traver",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Preorder_traver",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inorder_traver",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Inorder_traver",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary_tree",
+            "request": "launch",
+            "mainClass": "dsa.Tree.Binary_tree",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myhash",
+            "request": "launch",
+            "mainClass": "dsa.Hashing.Myhash",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Imple_chaini",
+            "request": "launch",
+            "mainClass": "dsa.Hashing.Imple_chaini",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashing",
+            "request": "launch",
+            "mainClass": "dsa.Hashing.Hashing",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch Printing_permutation",
             "request": "launch",
             "mainClass": "dsa.Recursion.Printing_permutation",
