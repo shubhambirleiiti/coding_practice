@@ -20,9 +20,6 @@ class Majority_elemnet_efficient
          if(count>n/2) return count;
          else return -1;
     }
-
-      
-
 public static void main(String args[]) 
 { 
    int arr[] = {8, 7, 6, 6, 2, 6, 6, 6}, n = 8;

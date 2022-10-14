@@ -17,7 +17,6 @@ class RotateD
                 arr[low]=arr[high];
                 arr[high]=temp;
                 low++;high--;
-
              }
     }
     public static void main(String args[]) 

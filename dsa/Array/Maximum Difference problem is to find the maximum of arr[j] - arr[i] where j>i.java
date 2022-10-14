@@ -9,7 +9,6 @@ class Maxdifffer
     	{
     	    result=Math.max(result,arr[i]-minval);
             minval=Math.min(arr[i],minval);
-
         }
     	return result;
     } 

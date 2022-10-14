@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Stock_2",
+            "request": "launch",
+            "mainClass": "Stock_2",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subarray_naive",
+            "request": "launch",
+            "mainClass": "Subarray_naive",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stock_1",
+            "request": "launch",
+            "mainClass": "Stock_1",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zeroend_effic",
+            "request": "launch",
+            "mainClass": "Zeroend_effic",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateD",
+            "request": "launch",
+            "mainClass": "RotateD",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotatebyeone",
+            "request": "launch",
+            "mainClass": "Rotatebyeone",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leader",
+            "request": "launch",
+            "mainClass": "Leader",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fre_sort_arr",
+            "request": "launch",
+            "mainClass": "Fre_sort_arr",
+            "projectName": "coding_practice_35c39a6"
+        },
+        {
+            "type": "java",
             "name": "Launch check_balance",
             "request": "launch",
             "mainClass": "dsa.Tree.check_balance",

@@ -22,7 +22,7 @@ class Max_sbarr_efficient
     }
     public static void main(String[]args)
     {
-        int arr[] = {5, 10, 10, 1, 3, 8}, n = 6;
+        int arr[] = {5, 10, 10, 1, 4, 3}, n = 6;
 
         System.out.println(Max_sbarr(arr, n));
     }
