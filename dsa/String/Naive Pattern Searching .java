@@ -19,7 +19,7 @@ class Pattern_searching_naive {
     }
   
     public static void main(String args[]) 
-    {   String txt = "ABCABCD";String pat="ABCD";
+    {   String txt = "ABCABCD";String pat="ABC";
         System.out.print("All index numbers where pattern found: ");
         patSearchinng(txt,pat);  
     } 
